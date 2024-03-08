@@ -1,0 +1,143 @@
+{
+  "Bouquets mariage": [
+    {
+      "name": "nom1",
+      "description": "Un bouquet mariage d'une splendeur classique, composé de fleurs blanches symbolisant la pureté et l'élégance.",
+      "prices": {
+        "moyen": "275.00",
+        "grand": "350.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/imagesSynchro/454/546/5ff35047cec74d0180aeda0fbb1f0fc32f78ae86_stgermainsimpleFP2.jpg"
+    },
+    {
+      "name": "nom2",
+      "description": "Une composition florale parfaite pour le jour J pour un amour éternel.",
+      "prices": {
+        "moyen": "290.00",
+        "grand": "365.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/2560/1600/641971f336a73_bouquet_mari_.jpg"
+    },
+    {
+      "name": "nom3",
+      "description": "Un bouquet luxuriant, conçu pour capturer l'essence de l'amour éternel.",
+      "prices": {
+        "moyen": "310.00",
+        "grand": "385.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/740/740/62d96435a48f2_FPCassini1.jpg"
+    },
+    {
+      "name": "nom4",
+      "description": "Un arrangement élégant de fleurs de saison aux teintes pastel, exprimant douceur et bonheur.",
+      "prices": {
+        "moyen": "330.00",
+        "grand": "400.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/2560/1600/64551ca86237e_thumbnail_400x490_Mariage_1.jpg"
+    },
+    {
+      "name": "nom5",
+      "description": "Un bouquet somptueux avec des roses de jardin et des fleurs sauvages, évoquant une romance bohème.",
+      "prices": {
+        "moyen": "320.00",
+        "grand": "395.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/2560/1600/641871bd91765_Sans_titre_4_.jpg"
+    }
+  ],
+  "Bouquets fêtes des mères": [
+    {
+      "name": "nom6",
+      "description": "Un bouquet chaleureux aux teintes vives, parfait pour montrer votre amour et votre gratitude envers votre mère.",
+      "prices": {
+        "moyen": "50.00",
+        "grand": "70.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/65ce1d9e228ca_MF_24_02_6257_FicheProd_Printemps_910x109034.jpg"
+    },
+    {
+      "name": "nom7",
+      "description": "Des fleurs douces et parfumées, assemblées dans un bouquet qui évoque la douceur maternelle.",
+      "prices": {
+        "moyen": "60.00",
+        "grand": "80.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/608686fbb8e4d_FPagar1.jpg"
+    },
+    {
+      "name": "nom8",
+      "description": "Un bouquet resplendissant reflétant l'affection et la tendresse pour une mère exceptionnelle.",
+      "prices": {
+        "moyen": "55.00",
+        "grand": "75.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/imagesSynchro/454/546/e05cf2293f751f398385e77652f8731214d7ae32_mogadorgenereuxFP1.jpg"
+    },
+    {
+      "name": "nom9",
+      "description": "Une célébration florale des moments partagés avec votre mère, pleine de couleur et de vie.",
+      "prices": {
+        "moyen": "65.00",
+        "grand": "90.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/6441fa712a6f9_MF_FicheProduit_AvrilPEtitprix2023_910x10902.jpg"
+    },
+    {
+      "name": "nom10",
+      "description": "Un arrangement soigneusement sélectionné pour exprimer votre admiration et votre amour inconditionnel.",
+      "prices": {
+        "moyen": "70.00",
+        "grand": "100.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/5f3250d9ceda6_FPBelleville2.jpg"
+    }
+  ],
+  "Bouquets de remerciement": [
+    {
+      "name": "nom11",
+      "description": "Un bouquet délicat pour dire 'merci' avec des nuances subtiles et des textures riches.",
+      "prices": {
+        "moyen": "30.00",
+        "grand": "50.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/62d9632069aca_FPDalida2.jpg"
+    },
+    {
+      "name": "nom12",
+      "description": "Un geste élégant de reconnaissance avec un mélange harmonieux de fleurs.",
+      "prices": {
+        "moyen": "40.00",
+        "grand": "60.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/62d96435a48f2_FPCassini1.jpg"
+    },
+    {
+      "name": "nom13",
+      "description": "Une teinte apaisante et un design inspiré pour transmettre une note sincère de gratitude.",
+      "prices": {
+        "moyen": "45.00",
+        "grand": "65.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/65ce1e4ce4f3d_MF_24_02_6257_FicheProd_Printemps_910x10906.jpg"
+    },
+    {
+      "name": "nom14",
+      "description": "Un mélange coloré de fleurs vibrantes pour célébrer la gentillesse et la générosité.",
+      "prices": {
+        "moyen": "35.00",
+        "grand": "55.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/65ce1c98997a8_MF_24_02_6257_FicheProd_Printemps_910x109045.jpg"
+    },
+    {
+      "name": "nom15",
+      "description": "Ce bouquet exprime une appréciation profonde avec ses fleurs exquises et son élégance naturelle.",
+      "prices": {
+        "moyen": "50.00",
+        "grand": "70.00"
+      },
+      "image_link": "https://emova-monceaufleurs-fr-storage.omn.proximis.com/Imagestorage/images/454/546/65ce1c14640b8_MF_24_02_6257_FicheProd_Printemps_910x109026.jpg"
+    }
+  ]
+}
