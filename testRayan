@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Fleur - Accueil</title>
+    <link rel="stylesheet" href="fleur.css">
+</head>
+<body>
+	<button id="menuBtn">Menu</button>
+    <aside id="menu">
+        <ul>
+            <li><a href="#accueil">Accueil</a></li>
+            <li><a href="#bulbes">Bulbes</a></li>
+            <li><a href="#plantes-massif">Plantes à Massif</a></li>
+            <li><a href="#rosiers">Rosiers</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </aside>
+
+    <header>
+        <div class="container">
+            <h1>La Fleur</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">À Propos</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#gallery">Galerie</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>À Propos de Nous</h2>
+            <p>Bienvenue chez La Fleur, votre destination florale de choix. Nous nous spécialisons dans la fourniture de fleurs fraîches et de magnifiques arrangements pour toutes les occasions.</p>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <h2>Nos Services</h2>
+            <div class="service">
+                <img src="service1.jpg" alt="Service 1">
+                <h3>Arrangements uniques</h3>
+                <p>Nos designers floraux créent des arrangements uniques pour chaque occasion.</p>
+            </div>
+            <div class="service">
+                <img src="service2.jpg" alt="Service 2">
+                <h3>Livraison rapide</h3>
+                <p>Nous offrons une livraison rapide et fiable pour vous assurer que vos fleurs arrivent fraîches.</p>
+            </div>
+            <div class="service">
+                <img src="service3.jpg" alt="Service 3">
+                <h3>Événements sur mesure</h3>
+                <p>Nous proposons des services d'arrangement floral personnalisés pour tous vos événements spéciaux.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="gallery">
+        <div class="container">
+            <h2>Galerie</h2>
+            <div class="gallery-images">
+                <img src="gallery1.jpg" alt="Image 1">
+                <img src="gallery2.jpg" alt="Image 2">
+                <img src="gallery3.jpg" alt="Image 3">
+                <!-- Ajouter plus d'images au besoin -->
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contactez-Nous</h2>
+            <form action="#" method="post">
+                <input type="text" name="name" placeholder="Nom" required>
+                <input type="email" name="email" placeholder="Email" required>
+                <textarea name="message" placeholder="Votre message" rows="4" required></textarea>
+                <button type="submit">Envoyer</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 La Fleur. Tous droits réservés.</p>
+        </div>
+    </footer>
+</body>
+</html>
+
