@@ -72,6 +72,117 @@
         </div>
     </section>
 
+    <section id="bulbes">
+        <div class="container">
+            <h2>Catalogue - Bulbes</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Référence</th>
+                        <th>Désignation</th>
+                        <th>Photo</th>
+                        <th>Prix</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>BUL001</td>
+                        <td>Bulbes de Bégonias</td>
+                        <td><img src="bulbes_begonias.jpg" alt="Bulbes de Bégonias"></td>
+                        <td>5.99€</td>
+                    </tr>
+                    <tr>
+                        <td>BUL002</td>
+                        <td>Bulbes de Tulipes</td>
+                        <td><img src="bulbes_tulipes.jpg" alt="Bulbes de Tulipes"></td>
+                        <td>3.99€</td>
+                    </tr>
+                    <tr>
+                        <td>BUL003</td>
+                        <td>Bulbes de Jonquilles</td>
+                        <td><img src="bulbes_jonquilles.jpg" alt="Bulbes de Jonquilles"></td>
+                        <td>4.49€</td>
+                    </tr>
+                    <!-- Ajouter d'autres références au besoin -->
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <section id="plantes-massif">
+        <div class="container">
+            <h2>Catalogue - Plantes à Massif</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Référence</th>
+                        <th>Désignation</th>
+                        <th>Photo</th>
+                        <th>Prix</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>PM001</td>
+                        <td>Bulbes de Bégonias</td>
+                        <td><img src="bulbes_begonias.jpg" alt="Bulbes de Bégonias"></td>
+                        <td>5.99€</td>
+                    </tr>
+                    <tr>
+                        <td>PM002</td>
+                        <td>Bulbes de Tulipes</td>
+                        <td><img src="bulbes_tulipes.jpg" alt="Bulbes de Tulipes"></td>
+                        <td>3.99€</td>
+                    </tr>
+                    <tr>
+                        <td>PM003</td>
+                        <td>Bulbes de Jonquilles</td>
+                        <td><img src="bulbes_jonquilles.jpg" alt="Bulbes de Jonquilles"></td>
+                        <td>4.49€</td>
+                    </tr>
+                    <!-- Ajouter d'autres références au besoin -->
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <section id="rosiers">
+        <div class="container">
+            <h2>Catalogue - Rosiers</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Référence</th>
+                        <th>Désignation</th>
+                        <th>Photo</th>
+                        <th>Prix</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>RO001</td>
+                        <td>Rosier 'Pierre de Ronsard'</td>
+                                                <td><img src="rosier_pierre_de_ronsard.jpg" alt="Rosier 'Pierre de Ronsard'"></td>
+                        <td>19.99€</td>
+                    </tr>
+                    <tr>
+                        <td>RO002</td>
+                        <td>Rosier 'Champagne Moment'</td>
+                        <td><img src="rosier_champagne_moment.jpg" alt="Rosier 'Champagne Moment'"></td>
+                        <td>18.99€</td>
+                    </tr>
+                    <tr>
+                        <td>RO003</td>
+                        <td>Rosier 'Blue Moon'</td>
+                        <td><img src="rosier_blue_moon.jpg" alt="Rosier 'Blue Moon'"></td>
+                        <td>17.99€</td>
+                    </tr>
+                    <!-- Ajouter d'autres références au besoin -->
+                </tbody>
+            </table>
+        </div>
+    </section>
+
     <section id="contact">
         <div class="container">
             <h2>Contactez-Nous</h2>
