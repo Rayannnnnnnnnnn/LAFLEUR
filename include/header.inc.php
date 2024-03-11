@@ -10,7 +10,7 @@
     <header>
         <nav class="navbar">
             <div class="nav-brand">
-                <a href="index.php"><img src="images/logo.jpg" alt="Logo"></a>
+                <a href="index.php"><img src="logo.jpg" alt="Logo"></a>
             </div>
             <ul class="nav-links">
                 <li><a href="index.php">Accueil</a></li>
